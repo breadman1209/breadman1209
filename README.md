@@ -2,8 +2,9 @@
 
 # BreadMan1209 Portfolio
 
-Discord: BreadMan1209
-📧 Email: avishyantaryan@gmail.com
+## Contact
+- Discord: BreadMan1209
+- Email: avishyantaryan@gmail.com
 
 ---
 
