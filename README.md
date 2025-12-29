@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # BreadMan1209 Portfolio
 
 ## Contact
