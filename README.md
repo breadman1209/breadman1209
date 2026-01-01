@@ -12,9 +12,10 @@ I am a Minecraft server developer with experience in plugin configuration, Delux
 ---
 
 ## Skills
-- Plugin Configuration and Optimization  
+- Plugin Configuration  
 - DeluxeMenus Creation  
 - Script Development  
+- Optimization
 - Troubleshooting and Maintenance  
 - Development Team Leadership  
 
