@@ -23,6 +23,13 @@ I am a Minecraft server developer with experience in plugin configuration, Delux
 
 ## Experience
 
+### AcentraMC (14k+ Members)
+**Role:** Developer 
+- Menu designer
+- Plugin Configurator
+**Status:** Working 
+---
+
 ### UnionMC (500+ Members)
 **Role:** Executive – Development Lead  
 - Led the development team and handled technical decisions  
@@ -36,7 +43,7 @@ I am a Minecraft server developer with experience in plugin configuration, Delux
 **Role:** Owner and Lead Developer  
 - Designed and managed core server development  
 - Responsible for overall configuration and scripting  
-**Status:** Project not launched  
+**Status:** Working  
 
 ---
 
