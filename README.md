@@ -26,8 +26,7 @@ I am a Minecraft server developer with experience in plugin configuration, Delux
 ### AcentraMC (14k+ Members)
 **Role:** Developer   
 - Menu designer
-- Plugin Configurator
-<br>
+- Plugin Configurator<br>
 **Status:** Working
 
 ---
