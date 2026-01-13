@@ -44,7 +44,7 @@ I am a Minecraft server developer with experience in plugin configuration, Delux
 **Role:** Owner and Lead Developer  
 - Designed and managed core server development  
 - Responsible for overall configuration and scripting  
-**Status:** Working  
+**Status:** Resigned 
 
 ---
 
