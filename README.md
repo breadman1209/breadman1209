@@ -27,7 +27,7 @@ I am a Minecraft server developer with experience in plugin configuration, Delux
 **Role:** Developer   
 - Menu designer
 - Plugin Configurator<br>
-**Status:** Working
+**Status:** Not Working
 
 ---
 
